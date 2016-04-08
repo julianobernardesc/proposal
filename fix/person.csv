@@ -1,0 +1,11 @@
+first_name,last_name,email,address,complement,district,city,uf,cep
+Adrian,Holovaty,holovaty@example.com,"Av. Ulisses Reis de Matos, 100",1º andar,Morumbi,São Paulo,SP,00568-602
+Alan,Turing,turing@example.com,"Av Pedroso de Morais, 1552",,Pinheiros,São Paulo,SP,05420-002
+Audrey,Roy Greenfeld,audrey.greenfeld@example.com,"Av 23 de Maio, 3041",,Vila Mariana,São Paulo,SP,04008-090
+Daniel,Roy Greenfeld,danny.greenfeld@example.com,"Rua Padre Machado, 68",10º andar,Vila Mariana,São Paulo,SP,04127-001
+Donald,Knuth,knuth@example.com,"Rua Miguel, 337",casa 2,Jardim Novo Pantanal,São Paulo,SP,04472-060
+Grace,Hopper,hopper@example.com,"Rua Colômbia, 659",,Jardim América,São Paulo,SP,01438-001
+Guido,Van Rossum,vanrossum@example.com,"Av. Pacaembú, 380",apto 501,Barra Funda,São Paulo,SP,01155-000
+Jacob,Kaplan Moss,kaplanmoss@example.com,"Av. Indianópolis, 100",3º andar,Indianópolis,São Paulo,SP,04062-000
+Peter,Baumgartner,baumgartner@example.com,"Rua Colômbia, 810",,Jardim América,São Paulo,SP,01438-001
+Simon,Willison,willison@example.com,"Av. Moreira Guimarães, 367",fundos,Moema,São Paulo,SP,04074-030
