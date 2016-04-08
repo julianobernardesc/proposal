@@ -1,0 +1,10 @@
+dj-database-url==0.4.1
+Django==1.9.5
+django-daterange-filter==1.2.0
+django-extensions==1.6.1
+django-localflavor==1.2
+django-widget-tweaks==1.4.1
+python-decouple==3.0
+pytz==2016.3
+selenium==2.53.1
+six==1.10.0
